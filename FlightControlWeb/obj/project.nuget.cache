@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zFN/1x9vnYWOdZjvLJCvccIeiYYIbhNb+19pF2N2l54ePi16yXb8oarRCfQ+XsAqcFfip67euqMTNDTeUTFIxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oren Schwartz\\source\\repos\\FlightControl\\FlightControlWeb\\FlightControlWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oren Schwartz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
